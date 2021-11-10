@@ -1,0 +1,11 @@
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\bin\Debug\rpDZ.exe.config
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\bin\Debug\rpDZ.exe
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\bin\Debug\rpDZ.pdb
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\obj\Debug\rpDZ.csprojAssemblyReference.cache
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\obj\Debug\rpDZ.Form1.resources
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\obj\Debug\rpDZ.Properties.Resources.resources
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\obj\Debug\rpDZ.csproj.GenerateResource.cache
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\obj\Debug\rpDZ.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\obj\Debug\rpDZ.exe
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\obj\Debug\rpDZ.pdb
+C:\Users\Leonardo Lionel\Desktop\FAKS\c#\rpDZ\rpDZ\obj\Debug\rpDZ.otkljucaniObjekt.resources
